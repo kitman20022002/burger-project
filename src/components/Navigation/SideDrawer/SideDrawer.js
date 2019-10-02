@@ -1,8 +1,8 @@
 import React from 'react';
 import NavigationItems from "../NavigationItems/NavigationItems";
 import './SideDrawer.css';
-import Modal from "../../UI/Modal/Modal";
-import Aux from '../../../hoc/Auxiliary'
+
+import Aux from '../../../hoc/Auxiliary/Auxiliary'
 import Backdrop from "../../UI/Backdrop/Backdrop";
 
 const sideDrawer = (props) => {

@@ -1,5 +1,5 @@
 .NavigationsItem{
-    margin: 0;
+    margin: 10px 0;
     display: flex;
     box-sizing: border-box;
     align-self: center;
@@ -22,3 +22,4 @@
     border-bottom: 4px solid #40A4C8;
     color: white;
 }
+

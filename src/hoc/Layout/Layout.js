@@ -7,7 +7,7 @@ import Toolbar from "../../components/Navigation/Toolbar/Toolbar";
 
 class Layout extends React.Component {
     state = {
-        showSideDrawer: true
+        showSideDrawer: false
     };
 
 
